@@ -4,6 +4,10 @@ This repository is our implementation of
 
 [Xuelong Li, Hongyuan Zhang, and Rui Zhang, &#34;Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning,&#34; *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022](https://ieeexplore.ieee.org/document/9729616).
 
+In this paper, we introduce a new surrogate for matrix completion, which is equivalent to the nuclear norm. 
+
+In particular, we prove the upper-bound of an approximate/inexact closed-form solution, which is a crucial step of the optimization. The surrogate and its optimization make the matrix completion more compatible for additional learning mechanisms. 
+
 If you have issues, please email:
 
 hyzhang98@gmail.com or hyzhang98@mail.nwpu.edu.cn.
