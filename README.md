@@ -2,7 +2,7 @@
 
 This repository is our implementation of
 
-[Xuelong Li, Hongyuan Zhang, and Rui Zhang, &#34;Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning,&#34; *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022](https://ieeexplore.ieee.org/document/9729616).
+[Xuelong Li, Hongyuan Zhang, and Rui Zhang, &#34;Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning,&#34; *IEEE Transactions on Pattern Analysis and Machine Intelligence*, vol. 45, no. 2, pp. 1981-1991, 2023](https://ieeexplore.ieee.org/document/9729616).
 
 In this paper, we introduce a new surrogate for matrix completion, which is equivalent to the nuclear norm. 
 
@@ -26,9 +26,9 @@ hyzhang98@gmail.com or hyzhang98@mail.nwpu.edu.cn.
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Matrix Completion via Non-Convex Relaxation and Adaptive Correlation Learning}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={45},
+  number={2},
+  pages={1981--1991},
   doi={10.1109/TPAMI.2022.3157083}
 }
 
